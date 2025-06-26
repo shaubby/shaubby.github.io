@@ -44,6 +44,16 @@
 }
 
 
+.accent {
+  color: #ff9494;
+}
+.accent2 {
+  color: #fff694;
+}
+a:not(.no-underline) {
+  color: var(--color-bwue);
+  text-decoration: underline;
+}
 
 body {
   margin: 0;

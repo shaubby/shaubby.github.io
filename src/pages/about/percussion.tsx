@@ -1,5 +1,3 @@
-import React, { use } from "react";
-import { NavLink } from "react-router";
 
 export default function Percussion() {
     return (

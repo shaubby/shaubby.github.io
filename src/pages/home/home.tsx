@@ -6,10 +6,10 @@ export function Home() {
         <div>
             <div className="columns-2  gap-10">
                 <div className="">
-                    <p className="">
-                        <div className="mb-3 text-plink">★ hi traveller! ★<br /></div>
-                        <div className="mb-3 text-gween">welcome to my home among the stars!<br /></div>
-                        <div className="text-white">feel free to refuel and explore before heading back out into the vast world of the internet.<br /></div>
+                    <p className="text-xl">
+                        <div className="mb-1 text-2xl text-plink">★ hi traveller! ★<br /></div>
+                        <div className="mb-1 text-gween text-xl">welcome to my home among the stars!<br /></div>
+                        <div className="text-white">feel free to <span className='accent'>refuel</span> and <span className='accent'>explore</span> before heading back out into the vast world of the <span className='accent'>internet</span> :)<br /></div>
                         <br />
                     </p>
                 </div>
@@ -20,7 +20,7 @@ export function Home() {
             </div>
             <div className="relative bg-[url(/home/textbar.svg)] bg-contain bg-no-repeat h-12  px-[2%] content-center mt-3">
                 <div className="w-full overflow-hidden whitespace-nowrap text-white p-2 h-[100%]">
-                    <div className="marquee justify-center mb-1 text-white">
+                    <div className="marquee justify-center mb-1 text-lg text-white">
                         <span className='mx-20'> yay i have a visitor!! i hope you enjoy my super cool space station! </span>
                         <span className='mx-20'> yay i have a visitor!! i hope you enjoy my super cool space station! </span>
                     </div>

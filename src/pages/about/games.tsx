@@ -1,4 +1,3 @@
-import React from 'react';
 export default function Games() {
     return (
         <div className="bg-black p-3 text-white text-md">
