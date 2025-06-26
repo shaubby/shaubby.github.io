@@ -15,10 +15,7 @@ export default function Games() {
                 the <span className="text-plink">time-manipulation level</span> is one of  <span className="text-plink">my favorite levels in a game</span> and inspired dimensionshift, my game for juice.
             </div>
 
-            <div className="text-plurple mt-2">destiny 2</div>
-            <div className="text-base">
-                - this game definitely has its issues lol but ive played it way too much. it has <span className="text-plink">really good fps gameplay</span> and some<span className="text-plink">amazing raids, dungeons, and campaigns </span>.
-            </div>
+           
 
         </div>
     );
