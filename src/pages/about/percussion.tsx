@@ -5,8 +5,8 @@ export default function Percussion() {
             <div className="text-xl text-center"> <span className=""> my fav percussion music! </span></div>
             ill do 5 so this doesnt get too long lol    
 
-            <div className="mt-1 w-full relative border-1 p-3 border-bwue rounded-xl">
-                <iframe src="https://www.youtube.com/embed/e2QWx9VQ-Xw" className="float-right border-1 rounded-xl border-bwue m-2"></iframe>
+            <div className="mt-1 w-full flex-1 relative border-1 p-3 border-bwue rounded-xl">
+            <iframe src="https://www.youtube.com/embed/e2QWx9VQ-Xw" className="flex-1 border-1 rounded-xl border-bwue m-2 float-right"></iframe>
                 <div className="text-plurple mt-1">blue soul - michael burritt</div>
 
                 <div className="text-base">
@@ -15,6 +15,7 @@ export default function Percussion() {
                     incredible writing, especially at the end with the harmonica beautifully sailing over the percussion textures ♡♡♡.
                     eastman percussion ensemble is so good.
                 </div>
+                
             </div>
 
             <div className="mt-3 w-full relative border-1 p-3 border-plink rounded-xl">
